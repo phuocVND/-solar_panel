@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Cell', 'Cell-Multi', 'No-Anomaly', 'Shadowing', 'Unclassified']
