@@ -2,5 +2,5 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 5
+nc: 4
 names: ['Hotspot', 'Normal', 'Shadow', 'Diode']
