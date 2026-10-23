@@ -1,0 +1,15 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+channels: 1
+
+nc: 4
+names: ['Diode', 'Hotspot', 'Normal', 'Shadow']
+
+roboflow:
+  workspace: duyphuoc1907
+  project: solar_panel-pozln
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/duyphuoc1907/solar_panel-pozln/dataset/2
