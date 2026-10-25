@@ -1,0 +1,10 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names:
+  0: Hotspot
+  1: Normal
+  2: Shadow
+  3: Diode
