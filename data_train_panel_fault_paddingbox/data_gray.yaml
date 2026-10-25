@@ -1,8 +1,6 @@
-path: "/Users/phuocvnd/Desktop/phuocvnd/-solar_panel/data_train_panel_fault_paddingbox"
-
-train: train/images
-val: valid/images
-test: test/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
 channels: 1
 

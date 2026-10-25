@@ -1,8 +1,6 @@
-path: "/Users/phuocvnd/Desktop/phuocvnd/-solar_panel/data_final_renamed"
-
-train: train/images
-val: valid/images
-test: test/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
 channels: 1
 
